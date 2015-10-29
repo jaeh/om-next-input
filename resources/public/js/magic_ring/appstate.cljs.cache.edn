@@ -1,0 +1,2 @@
+;; Analyzed by ClojureScript 1.7.145
+{:use-macros nil, :excludes #{}, :name magic-ring.appstate, :imports nil, :requires nil, :uses nil, :defs {state {:name magic-ring.appstate/state, :file "src/magic_ring/appstate.cljs", :line 3, :column 1, :end-line 3, :end-column 15, :meta {:file "/home/j/clojure/om-next/src/magic_ring/appstate.cljs", :line 3, :column 10, :end-line 3, :end-column 15}}}, :require-macros nil, :cljs.analyzer/constants {:seen #{:color :title :count}, :order [:count :title :color]}, :doc nil}

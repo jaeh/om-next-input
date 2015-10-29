@@ -1,0 +1,1 @@
+{"version":3,"file":"\/home\/j\/clojure\/om-next\/resources\/public\/js\/appstate.js","sources":["appstate.cljs"],"lineCount":9,"mappings":";AAAA;;AAEA,GAAA,OAASA;AAAT;AAAA,AAAA,AAASA,qBAAU,yBAAA,2CAAA,uDAAA,3HAACC","names":["appstate\/app-state","cljs.core\/atom"]}

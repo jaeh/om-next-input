@@ -1,0 +1,1 @@
+{"version":3,"file":"\/home\/j\/clojure\/om-next\/resources\/public\/js\/magic_ring\/appstate.js","sources":["appstate.cljs"],"lineCount":9,"mappings":";AAAA;;AAEA,GAAA,OAASA;AAAT;AAAA,AAAA,AAASA,4BAAM,yBAAA,2CAAA,uDAAA,IAAA,sDAAA,aAAA,uDAAA,zPAACC","names":["magic-ring.appstate\/state","cljs.core\/atom"]}

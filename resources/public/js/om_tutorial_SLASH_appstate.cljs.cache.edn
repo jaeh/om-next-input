@@ -1,0 +1,2 @@
+;; Analyzed by ClojureScript 1.7.145
+{:use-macros nil, :excludes #{}, :name om-tutorial/appstate, :imports nil, :requires nil, :uses nil, :defs {app-state {:name om-tutorial/appstate/app-state, :file "/home/j/clojure/om-next/src/om_tutorial/appstate.cljs", :line 3, :column 1, :end-line 3, :end-column 19, :meta {:file "/home/j/clojure/om-next/src/om_tutorial/appstate.cljs", :line 3, :column 10, :end-line 3, :end-column 19}}}, :require-macros nil, :cljs.analyzer/constants {:seen #{:count}, :order [:count]}, :doc nil}

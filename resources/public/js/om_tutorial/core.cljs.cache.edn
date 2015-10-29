@@ -1,0 +1,2 @@
+;; Analyzed by ClojureScript 1.7.145
+{:name om-tutorial.core, :doc nil, :excludes #{}, :use-macros {html sablono.core, defui om.next}, :require-macros {om om.next, om.next om.next, html sablono.core, sablono.core sablono.core}, :uses nil, :requires {colorchooser om-tutorial.colorchooser, goog.dom goog.dom, pixelshooter om-tutorial.pixelshooter, om-tutorial.pixelshooter om-tutorial.pixelshooter, html sablono.core, om-tutorial.colorchooser om-tutorial.colorchooser, sablono.core sablono.core, gdom goog.dom, om om.next, om.next om.next}, :imports nil}

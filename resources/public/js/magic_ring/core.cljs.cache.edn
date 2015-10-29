@@ -1,0 +1,2 @@
+;; Analyzed by ClojureScript 1.7.145
+{:name magic-ring.core, :doc nil, :excludes #{}, :use-macros {html sablono.core, defui om.next}, :require-macros {om om.next, om.next om.next, html sablono.core, sablono.core sablono.core}, :uses nil, :requires {colorchooser magic-ring.colorchooser, magic-ring.pixelshooter magic-ring.pixelshooter, goog.dom goog.dom, pixelshooter magic-ring.pixelshooter, html sablono.core, sablono.core sablono.core, gdom goog.dom, om om.next, om.next om.next, magic-ring.colorchooser magic-ring.colorchooser}, :imports nil}
